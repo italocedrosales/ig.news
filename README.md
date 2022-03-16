@@ -27,9 +27,9 @@
 
 </br>
 
-<!-- <p align="center">
-  <img alt="Layout" src="">
-</p> -->
+<p align="center">
+  <img alt="Layout" src="https://github.com/italocedrosales/ig.news/blob/develop/public/layout/Home.png">
+</p>
 
 ## 💇🏻‍♂️ About the project
 
