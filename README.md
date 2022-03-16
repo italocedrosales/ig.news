@@ -33,6 +33,8 @@
 
 ## 💇🏻‍♂️ About the project
 
+* Link this project: https://ig-news-italocedro.vercel.app/
+
 <!-- Soon -->
 
 <!-- To see the **api**, click here: [GoBarber Rest API](https://github.com/italocedrosales/gobarber-api)</br> -->
